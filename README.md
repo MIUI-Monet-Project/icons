@@ -11,8 +11,12 @@
    <a href="https://t.me/MIUIMonet"><img src="https://img.shields.io/badge/telegram-discuss-blue?longCache=true&style=for-the-badge&logo=telegram&logoColor=white"
       alt="Telegram Group" /></a>
 </div>
-<br/><br/><br/>
+<br/><br/>
 
+## Changelog
+
+Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
+<br/><br/><br/>
 ### MIUI Apps
 <table>
   <tr>
